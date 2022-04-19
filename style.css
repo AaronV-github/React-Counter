@@ -1,0 +1,17 @@
+body{
+    background-color: #b6e1cd ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.number{
+    font-size: 16rem;
+}
+
+.btn {
+    font-size: 6rem;
+    padding: 0%;
+    margin: auto;
+}
